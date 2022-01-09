@@ -10,5 +10,5 @@
 
 
 <p aling "center">
-  <img src="./navbar.gif" alt="Navbar">
+   <img src="./img/musicplayer.gif" alt="Navbar">
 </p
